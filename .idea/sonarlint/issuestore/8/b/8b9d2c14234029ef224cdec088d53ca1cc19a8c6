@@ -1,0 +1,12 @@
+
+]	java:S125
+"<This block of commented-out lines of code should be removed.(òúßÿÿÿÿÿ8˜İú•0
+X	java:S125"<This block of commented-out lines of code should be removed.(–ˆåù8º„–0
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+U
+java:S1854!"?Remove this useless assignment to local variable "firstWindow".(àÓ‰
+F
+java:S1481!"0Remove this unused "firstWindow" local variable.(àÓ‰
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù„€ğùÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÃ†ş8“Œ–0

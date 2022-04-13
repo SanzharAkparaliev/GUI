@@ -1,0 +1,7 @@
+
+^
+java:S3252""IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+R
+java:S1854'"<Remove this useless assignment to local variable "myWindow".(Å¬«ü
+C
+java:S1481'"-Remove this unused "myWindow" local variable.(Å¬«ü
